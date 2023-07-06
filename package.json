@@ -1,0 +1,14 @@
+{
+  "name": "bigman_cms",
+  "version": "1.0.0",
+  "description": "Landing page for bcms",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Smachew",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
