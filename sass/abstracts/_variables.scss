@@ -1,0 +1,30 @@
+// variable declaration for colors
+
+$color-primary: rgb(0, 0, 89);
+// $color-primary-light: #7ed56f;
+$color-primary-light: rgba(49, 142, 236, 0.916);
+$color-primary-dark: rgb(1, 4, 26);
+// $color-primary-dark: #28b485;
+
+// colors for rotating cards
+$color-secondary-light-1: #99e9f2;
+$color-secondary-dark-1: #0b7285;
+
+$color-secondary-light-2: #8ce99a;
+$color-secondary-dark-2: #2b8a3e;
+
+$color-secondary-light-3: #91a7ff;
+$color-secondary-dark-3: #364fc7;
+
+$color-grey-dark: #777;
+$color-white: #fff;
+$color-black: #000;
+$color-dark-brown: rgb(62, 22, 8);
+$color-grey-light-1: #f7f7f7;
+$color-grey-light-2: #eee;
+
+// variables for GRID
+
+$grid-width: 120rem;
+$gutter-vertical: 8rem;
+$gutter-horizontal: 6rem;

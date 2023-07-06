@@ -1,0 +1,16 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit; /*  to apply the concept of inheritance */
+}
+
+html {
+  font-size: 62.5%; /*then the absoute value =  16 * 0.625*/
+}
+
+body {
+  // this defines what 1rem is
+  box-sizing: border-box;
+}
